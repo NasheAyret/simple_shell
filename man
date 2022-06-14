@@ -1,4 +1,4 @@
-.TH SHELL 1 "May 2022" "ALXSE" "0x16. C - Simple Shell"
+.TH SHELL 1 "June 2022" "ALXSE" "0x16. C - Simple Shell"
 .SH NAME
 .B shellby\fR \- simple UNIX command interpreter
 .SH SYNOPSIS
